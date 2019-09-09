@@ -1,0 +1,13 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces The definition of variables\relax }}{7}{table.2.1}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces The definition of covariance functions\relax }}{13}{table.2.2}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of the covariance functions\relax }}{27}{table.3.1}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces The performance of surrogate-model fitting error MAPE$_{srgt/sim}$ in Final${_3}$\relax }}{28}{table.3.2}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces The performance of predicted error MAPE$_{srgt/exp}$ in Final${_3}$\relax }}{29}{table.3.3}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces The performance of optimal solution fitting error MAPE$_{srgt/sim}$ in Final${_3}$\relax }}{29}{table.3.4}% 
+\contentsline {table}{\numberline {3.5}{\ignorespaces The performance of final error MAPE$_{sim/exp}$ in Final${_3}$\relax }}{30}{table.3.5}% 
+\contentsline {table}{\numberline {3.6}{\ignorespaces GPR-surrogate and GA estimated parameters and corresponding performances\relax }}{31}{table.3.6}% 
+\contentsline {table}{\numberline {3.7}{\ignorespaces GPR-surrogate and PSO estimated parameters and corresponding performances\relax }}{33}{table.3.7}% 
+\addvspace {10\p@ }

@@ -1,0 +1,28 @@
+\begin{abstractzh}
+
+本文建立離線最佳化的架構,並以此架構來尋找電腦模擬系統中的四個參數最佳組合,以取代透過不斷測試來調整電腦模擬系統參數的方法。
+在離線最佳化的架構中,包含後設模型的預測和啟發式演算法的參數求解。本文主要是以高斯過程當作後設模型,此模型能有效預測電腦模擬系統的表現,並以啟發式演算法中的基因演算法和粒子團演算法,來尋找在電腦模擬系統中參數的最佳解。最後,本研究訓練出高斯迴歸模型與電腦模擬系統的平均絕對百分比誤差在百分之七以內,且基因演算法的參數最佳解帶入電腦模擬系統調整得出的結果,與物理實驗的平均絕對百分比誤差低於百分之十五。
+
+\bigbreak
+\noindent \textbf{關鍵字：}{ 離線最佳化、電腦模擬系統、後設模型、基因演算法、粒子團演算法\makeatletter \makeatother}
+\end{abstractzh}
+
+\begin{abstracten}
+	
+This study proposes the framework of offline optimization by using surrogate model and metaheuristics to approximate the simulator parameters of a marine turbine. Surrogate models are built to combine information obtained from numerical simulations. The integration of Gaussian surrogate model reduces the number of large-scale numerical simulations needed to find reliable estimates of the system parameters. Through the use of metaheuristics of the Genetic Algorithm and Particle Swarm Optimization, an efficient exploration of the parameter space is performed. The objective is to determine the system parameters to improve the accuracy of numerical simulation. For this purpose, the results of these parameters in surrogate model and metaheuristics are evaluated through a numerical simulation. We compare our resutls with the physical experiment to make sure that the modified simulator can reduce the errors between the simulator and physical experiments. Finally, the mean absolute percentage error between the result of numerical simulation and physical experiment in our case is within 15{\%}.
+
+\bigbreak
+\noindent \textbf{Keywords:}{ Offline optimization, Numerical simulation, Surrogate model, Genetic Algorithm, Particle Swarm Optimization \makeatletter  \makeatother}
+\end{abstracten}
+
+\begin{comment}
+\category{I2.10}{Computing Methodologies}{Artificial Intelligence --
+Vision and Scene Understanding} \category{H5.3}{Information
+Systems}{Information Interfaces and Presentation (HCI) -- Web-based
+Interaction.}
+
+\terms{Design, Human factors, Performance.}
+
+\keywords{Region of interest, Visual attention model, Web-based
+games, Benchmarks.}
+\end{comment}

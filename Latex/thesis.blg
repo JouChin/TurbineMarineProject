@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+The style file: apa.bst
+Database file #1: ref.bib
+Repeated entry---line 109 of file ref.bib
+ : @article{barton2006metamodel
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "david2018ensemble"
+Warning--empty journal in haupt2004practical
+You've used 20 entries,
+            1940 wiz_defined-function locations,
+            610 strings with 7327 characters,
+and the built_in function-call counts, 9011 in all, are:
+= -- 910
+> -- 331
+< -- 17
++ -- 114
+- -- 110
+* -- 783
+:= -- 1478
+add.period$ -- 64
+call.type$ -- 20
+change.case$ -- 155
+chr.to.int$ -- 20
+cite$ -- 21
+duplicate$ -- 361
+empty$ -- 643
+format.name$ -- 138
+if$ -- 1812
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 102
+num.names$ -- 60
+pop$ -- 145
+preamble$ -- 1
+purify$ -- 155
+quote$ -- 0
+skip$ -- 282
+stack$ -- 0
+substring$ -- 693
+swap$ -- 100
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 1
+while$ -- 80
+width$ -- 0
+write$ -- 265
+(There was 1 error message)

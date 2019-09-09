@@ -1,0 +1,123 @@
+%\documentclass[openany]{ntuthesis}
+\documentclass[oneside]{ntuthesis}
+\usepackage{xeCJK}
+\usepackage{times}
+\usepackage{verbatim}
+\usepackage{color}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{wallpaper}
+%\usepackage{hyperref}
+\usepackage[colorlinks,            
+linkcolor=black,     
+anchorcolor=black,            
+citecolor=black]{hyperref}
+\usepackage[printwatermark]{xwatermark}
+%\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{subfigure}
+\usepackage{floatrow}
+\usepackage{changepage}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{etoolbox}
+\usepackage{booktabs}
+\newcommand{\circled}[2][]{\tikz[baseline=(char.base)]
+	{\node[shape = circle, draw, inner sep = 1pt]
+		(char) {\phantom{\ifblank{#1}{#2}{#1}}};%
+		\node at (char.center) {\makebox[0pt][c]{#2}};}}
+\robustify{\circled}
+\usepackage{cite}
+\usepackage{caption}
+\usepackage{url}
+\usepackage{emptypage}
+\usepackage[sort,comma]{natbib}
+
+
+%\usepackage{natbib}
+%\usepackage[authoryear,round,longnamesfirst]{natbib}
+
+% Using the tex-text mapping for ligatures etc.
+\defaultfontfeatures{Mapping=tex-text}
+
+% Set the default fonts
+\setmainfont{Times New Roman}
+\setCJKmainfont{標楷體}
+
+\ifdefined\withwatermark
+\newwatermark*[allpages,xpos=6.1725cm,ypos=10.5225cm,scale=0.5]{\includegraphics{watermark.pdf}}
+\fi
+
+% digital object identifier
+\ifdefined\withdoi
+\insertdoi
+\fi
+
+\makeatletter
+\AtBeginDocument{
+	\hypersetup{
+		pdftitle={\@titleen},
+		pdfauthor={\@authoren},
+		pdfsubject={\@typeen{} \@classen},
+		pdfkeywords={\@keywordsen}
+	}
+}
+\makeatother
+
+% Your information goes here
+\input{ntuvars}
+
+\begin{document}
+	
+	\frontmatter
+	
+	\makecover
+	
+	%\ifdefined\withcertification
+	%\includepdf[angle=0]{certification.pdf}
+	%\else
+	%\makecertification
+	%\fi
+	
+	\input{acknowledgements}
+	\input{abstract}
+	
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	
+	\mainmatter
+	
+	% Your thesis goes here
+	\input{introduction}
+	%\input{related}
+	%\input{photoshoot}
+	%\input{modeling}
+	%\input{application}
+	%\input{conclusion}
+	
+	\appendix
+	
+	\backmatter
+	\addcontentsline{toc}{chapter}{\bibname}
+	 
+
+	
+	%\bibliographystyle{unsrt}
+	%\bibliographystyle{plainnat}
+	%\bibliographystyle{alpha}
+	%\bibliographystyle{plain}
+	% Your bibliography goes here
+	%\bibliographystyle{plainnat}
+
+    %\bibliographystyle{plain}
+    \bibliographystyle{apa}
+ 	\bibliography{ref}
+
+	
+
+	
+
+	
+\end{document}

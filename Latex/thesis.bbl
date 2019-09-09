@@ -1,0 +1,120 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Anand et~al.}{2011}]{anand2011surrogate}
+Anand, K., Ra, Y., Reitz, R.~D., and Bunting, B. (2011).
+\newblock Surrogate model development for fuels for advanced combustion
+  engines.
+\newblock {\em Energy \& Fuels}, 25(4):1474--1484.
+
+\bibitem[\protect\astroncite{Barton and
+  Meckesheimer}{2006}]{barton2006metamodel}
+Barton, R.~R. and Meckesheimer, M. (2006).
+\newblock Metamodel-based simulation optimization.
+\newblock {\em Handbooks in operations research and management science},
+  13:535--574.
+
+\bibitem[\protect\astroncite{Braconnier et~al.}{2011}]{braconnier2011towards}
+Braconnier, T., Ferrier, M., Jouhaud, J.-C., Montagnac, M., and Sagaut, P.
+  (2011).
+\newblock Towards an adaptive pod/svd surrogate model for aeronautic design.
+\newblock {\em Computers \& Fluids}, 40(1):195--209.
+
+\bibitem[\protect\astroncite{Coello et~al.}{2004}]{coello2004handling}
+Coello, C. A.~C., Pulido, G.~T., and Lechuga, M.~S. (2004).
+\newblock Handling multiple objectives with particle swarm optimization.
+\newblock {\em IEEE Transactions on evolutionary computation}, 8(3):256--279.
+
+\bibitem[\protect\astroncite{Elghali et~al.}{2007}]{elghali2007marine}
+Elghali, S.~B., Benbouzid, M., and Charpentier, J.~F. (2007).
+\newblock Marine tidal current electric power generation technology: State of
+  the art and current status.
+\newblock In {\em 2007 IEEE International Electric Machines \& Drives
+  Conference}, volume~2, pages 1407--1412. IEEE.
+
+\bibitem[\protect\astroncite{Frigge et~al.}{1989}]{frigge1989some}
+Frigge, M., Hoaglin, D.~C., and Iglewicz, B. (1989).
+\newblock Some implementations of the boxplot.
+\newblock {\em The American Statistician}, 43(1):50--54.
+
+\bibitem[\protect\astroncite{Haupt and Ellen~Haupt}{2004}]{haupt2004practical}
+Haupt, R.~L. and Ellen~Haupt, S. (2004).
+\newblock Practical genetic algorithms.
+
+\bibitem[\protect\astroncite{Heermann}{1990}]{heermann1990computer}
+Heermann, D.~W. (1990).
+\newblock Computer-simulation methods.
+\newblock In {\em Computer Simulation Methods in Theoretical Physics}, pages
+  8--12. Springer.
+
+\bibitem[\protect\astroncite{Holland}{1992}]{holland1992genetic}
+Holland, J.~H. (1992).
+\newblock Genetic algorithms.
+\newblock {\em Scientific american}, 267(1):66--73.
+
+\bibitem[\protect\astroncite{James et~al.}{2017}]{james2017simulating}
+James, S.~C., Johnson, E.~L., Barco, J., and Roberts, J.~D. (2017).
+\newblock Simulating current-energy converters: Snl-efdc model development,
+  verification, and parameter estimation.
+\newblock {\em Renewable Energy}.
+
+\bibitem[\protect\astroncite{Kang et~al.}{2016}]{kang2016slope}
+Kang, F., Xu, Q., and Li, J. (2016).
+\newblock Slope reliability analysis using surrogate models via new support
+  vector machines with swarm intelligence.
+\newblock {\em Applied Mathematical Modelling}, 40(11-12):6105--6120.
+
+\bibitem[\protect\astroncite{Kennedy}{2010}]{kennedy2010particle}
+Kennedy, J. (2010).
+\newblock Particle swarm optimization.
+\newblock {\em Encyclopedia of machine learning}, pages 760--766.
+
+\bibitem[\protect\astroncite{Moser et~al.}{1999}]{moser1999direct}
+Moser, R.~D., Kim, J., and Mansour, N.~N. (1999).
+\newblock Direct numerical simulation of turbulent channel flow up to re
+  $\tau$= 590.
+\newblock {\em Physics of fluids}, 11(4):943--945.
+
+\bibitem[\protect\astroncite{Rasmussen}{2003}]{rasmussen2003gaussian}
+Rasmussen, C.~E. (2003).
+\newblock Gaussian processes in machine learning.
+\newblock In {\em Summer School on Machine Learning}, pages 63--71. Springer.
+
+\bibitem[\protect\astroncite{rey Horn et~al.}{1994}]{rey1994niched}
+rey Horn, J., Nafpliotis, N., and Goldberg, D.~E. (1994).
+\newblock A niched pareto genetic algorithm for multiobjective optimization.
+\newblock In {\em Proceedings of the first IEEE conference on evolutionary
+  computation, IEEE world congress on computational intelligence}, volume~1,
+  pages 82--87. Citeseer.
+
+\bibitem[\protect\astroncite{Shevlyakov et~al.}{2013}]{shevlyakov2013robust}
+Shevlyakov, G., Andrea, K., Choudur, L., Smirnov, P., Ulanov, A., and
+  Vassilieva, N. (2013).
+\newblock Robust versions of the tukey boxplot with their application to
+  detection of outliers.
+\newblock In {\em 2013 IEEE International Conference on Acoustics, Speech and
+  Signal Processing}, pages 6506--6510. IEEE.
+
+\bibitem[\protect\astroncite{Tseng and Yun}{2009}]{tseng2009coordinate}
+Tseng, P. and Yun, S. (2009).
+\newblock A coordinate gradient descent method for nonsmooth separable
+  minimization.
+\newblock {\em Mathematical Programming}, 117(1-2):387--423.
+
+\bibitem[\protect\astroncite{Van~Laarhoven et~al.}{1992}]{van1992job}
+Van~Laarhoven, P.~J., Aarts, E.~H., and Lenstra, J.~K. (1992).
+\newblock Job shop scheduling by simulated annealing.
+\newblock {\em Operations research}, 40(1):113--125.
+
+\bibitem[\protect\astroncite{Wang and Landau}{2001}]{wang2001efficient}
+Wang, F. and Landau, D. (2001).
+\newblock Efficient, multiple-range random walk algorithm to calculate the
+  density of states.
+\newblock {\em Physical review letters}, 86(10):2050.
+
+\bibitem[\protect\astroncite{Yamazaki et~al.}{2010}]{yamazaki2010design}
+Yamazaki, W., Rumpfkeil, M., and Mavriplis, D. (2010).
+\newblock Design optimization utilizing gradient/hessian enhanced surrogate
+  model.
+\newblock In {\em 28th AIAA Applied Aerodynamics Conference}, page 4363.
+
+\end{thebibliography}
